@@ -1,0 +1,951 @@
+#FORM2
+
+[appellation_effect_desc]
+中洲霸主 : 所有相性5增加
+中洲第一帮副帮主 : 所有相性4增加
+中洲第一帮长老 : 所有相性3增加
+中洲第一帮护法 : 所有相性3增加
+中洲第一帮堂主 : 所有相性2增加
+中洲第一帮精英 : 所有相性2增加
+中洲第一帮帮众 : 所有相性1增加
+位列仙班·凡 : 所有相性10增加,所有属性10增加,物理伤害2000增加，法术伤害2000增加,所有抗性2增加,花花QQ64079824 友情提供
+君临天下·凡 : 所有相性20增加,所有属性20增加,物理伤害4000增加，法术伤害4000增加,所有抗性4增加,花花QQ64079824 友情提供
+名动一方·凡 : 所有相性30增加,所有属性30增加,物理伤害6000增加，法术伤害6000增加,所有抗性6增加,花花QQ64079824 友情提供
+纵横九州·凡 : 所有相性40增加,所有属性40增加,物理伤害8000增加，法术伤害8000增加,所有抗性8增加,花花QQ64079824 友情提供
+傲视三界·凡 : 所有相性50增加,所有属性50增加,物理伤害10000增加，法术伤害10000增加,所有抗性10增加,花花QQ64079824 友情提供
+超凡入圣·凡 : 所有相性60增加,所有属性60增加,物理伤害12000增加，法术伤害12000增加,所有抗性12增加,花花QQ64079824 友情提供
+天道通玄·凡 : 所有相性70增加,所有属性70增加,物理伤害14000增加，法术伤害14000增加,所有抗性14增加,花花QQ64079824 友情提供
+传说之巅·凡 : 所有相性80增加,所有属性80增加,物理伤害16000增加，法术伤害16000增加,所有抗性16增加,花花QQ64079824 友情提供
+醉笑红尘·凡 : 所有相性90增加,所有属性90增加,物理伤害18000增加，法术伤害18000增加,所有抗性18增加,花花QQ64079824 友情提供
+魅不可挡·凡 : 所有相性100增加,所有属性100增加,物理伤害20000增加，法术伤害20000增加,所有抗性20增加,花花QQ64079824 友情提供
+星耀女神·凡 : 所有相性110增加,所有属性110增加,物理伤害22000增加，法术伤害22000增加,所有抗性22增加,花花QQ64079824 友情提供
+国色天香·凡 : 所有相性120增加,所有属性120增加,物理伤害24000增加，法术伤害24000增加,所有抗性24增加,花花QQ64079824 友情提供
+倾国倾城·凡 : 所有相性130增加,所有属性130增加,物理伤害26000增加，法术伤害26000增加,所有抗性26增加,花花QQ64079824 友情提供
+哥是高富帅·凡 : 所有相性140增加,所有属性140增加,物理伤害28000增加，法术伤害28000增加,所有抗性28增加,花花QQ64079824 友情提供
+豪到没朋友·凡 : 所有相性150增加,所有属性150增加,物理伤害30000增加，法术伤害30000增加,所有抗性30增加,花花QQ64079824 友情提供
+唯我独尊·凡 : 所有相性160增加,所有属性160增加,物理伤害32000增加，法术伤害32000增加,所有抗性32增加,花花QQ64079824 友情提供
+护花使者·凡 : 所有相性170增加,所有属性170增加,物理伤害34000增加，法术伤害34000增加,所有抗性34增加,花花QQ64079824 友情提供
+人生若只如初见·凡 : 所有相性180增加,所有属性180增加,物理伤害36000增加，法术伤害36000增加,所有抗性36增加花花QQ64079824 友情提供
+就是这么任性·凡 : 所有相性190增加,所有属性190增加,物理伤害38000增加，法术伤害38000增加,所有抗性38增加,花花QQ64079824 友情提供
+逍遥散仙·仙 : 所有相性200增加,所有属性200增加,物理伤害40000增加，法术伤害40000增加,所有抗性40增加,花花QQ64079824 友情提供
+灵台天仙·仙 : 所有相性210增加,所有属性210增加,物理伤害42000增加，法术伤害42000增加,所有抗性42增加,花花QQ64079824 友情提供
+玉清真仙·仙 : 所有相性220增加,所有属性220增加,物理伤害44000增加，法术伤害44000增加,所有抗性44增加,花花QQ64079824 友情提供
+太阴灵仙·仙 : 所有相性230增加,所有属性230增加,物理伤害46000增加，法术伤害46000增加,所有抗性46增加,花花QQ64079824 友情提供
+大罗金仙·仙 : 所有相性240增加,所有属性240增加,物理伤害48000增加，法术伤害48000增加,所有抗性48增加,花花QQ64079824 友情提供
+太乙仙君·仙 : 所有相性250增加,所有属性250增加,物理伤害50000增加，法术伤害50000增加,所有抗性50增加,花花QQ64079824 友情提供
+混元仙尊·仙 : 所有相性260增加,所有属性260增加,物理伤害52000增加，法术伤害52000增加,所有抗性52增加,花花QQ64079824 友情提供
+九霄仙帝·仙 : 所有相性270增加,所有属性270增加,物理伤害54000增加，法术伤害54000增加,所有抗性54增加,花花QQ64079824 友情提供
+仙道圣皇·仙 : 所有相性280增加,所有属性280增加,物理伤害56000增加，法术伤害56000增加,所有抗性56增加,花花QQ64079824 友情提供
+修罗真仙·仙 : 所有相性290增加,所有属性290增加,物理伤害58000增加，法术伤害58000增加,所有抗性58增加,花花QQ64079824 友情提供
+圣元真仙·仙 : 所有相性300增加,所有属性300增加,物理伤害60000增加，法术伤害60000增加,所有抗性60增加,花花QQ64079824 友情提供
+圣元仙皇·仙 : 所有相性310增加,所有属性310增加,物理伤害62000增加，法术伤害62000增加,所有抗性62增加,花花QQ64079824 友情提供
+为你乱世称帝·仙 : 所有相性320增加,所有属性320增加,物理伤害64000增加，法术伤害64000增加,所有抗性64增加,花花QQ64079824 友情提供
+为你乱世妩媚·仙 : 所有相性330增加,所有属性330增加,物理伤害66000增加，法术伤害66000增加,所有抗性66增加,花花QQ64079824 友情提供
+赤天之神·神 : 所有相性340增加,所有属性340增加,物理伤害68000增加，法术伤害68000增加,所有抗性68增加,花花QQ64079824 友情提供
+通天之神·神 : 所有相性350增加,所有属性350增加,物理伤害70000增加，法术伤害70000增加,所有抗性70增加,花花QQ64079824 友情提供
+玄天之神·神 : 所有相性360增加,所有属性360增加,物理伤害72000增加，法术伤害72000增加,所有抗性72增加,花花QQ64079824 友情提供
+齐天之神·神 : 所有相性370增加,所有属性370增加,物理伤害74000增加，法术伤害74000增加,所有抗性74增加,花花QQ64079824 友情提供
+傲天之神·神 : 所有相性380增加,所有属性380增加,物理伤害76000增加，法术伤害76000增加,所有抗性76增加,花花QQ64079824 友情提供
+三界至尊·神 : 所有相性390增加,所有属性390增加,物理伤害78000增加，法术伤害78000增加,所有抗性78增加,花花QQ64079824 友情提供
+红莲之神·神 : 所有相性400增加,所有属性400增加,物理伤害80000增加，法术伤害80000增加,所有抗性80增加,花花QQ64079824 友情提供
+鬼面无影·神 : 所有相性410增加,所有属性410增加,物理伤害82000增加，法术伤害82000增加,所有抗性82增加,花花QQ64079824 友情提供
+涂山之神·神 : 所有相性420增加,所有属性420增加,物理伤害84000增加，法术伤害84000增加,所有抗性84增加,花花QQ64079824 友情提供
+青丘之神·神 : 所有相性430增加,所有属性430增加,物理伤害86000增加，法术伤害86000增加,所有抗性86增加,花花QQ64079824 友情提供
+白浅上神·神 : 所有相性440增加,所有属性440增加,物理伤害88000增加，法术伤害88000增加,所有抗性88增加,花花QQ64079824 友情提供
+缥缈之神·神 : 所有相性450增加,所有属性450增加,物理伤害90000增加，法术伤害90000增加,所有抗性90增加,花花QQ64079824 友情提供
+上古战神·神 : 所有相性460增加,所有属性460增加,物理伤害92000增加，法术伤害92000增加,所有抗性92增加,花花QQ64079824 友情提供
+我是土豪·神 : 所有相性470增加,所有属性470增加,物理伤害94000增加，法术伤害94000增加,所有抗性94增加,花花QQ64079824 友情提供
+斩瞳·神 : 所有相性480增加,所有属性480增加,物理伤害96000增加，法术伤害96000增加,所有抗性96增加,花花QQ64079824 友情提供
+打不过就赞助，赞助还打不过就删游戏 : 所有相性500增加,所有属性500增加,物理伤害100000增加，法术伤害100000增加,所有抗性100增加,花花QQ64079824 友情提供
+
+[打不过就赞助，赞助还打不过就删游戏]
+type : "打不过就赞助，赞助还打不过就删游戏"
+all_polar : 500
+all_attrib : 500
+phy_power : 100000
+mag_power : 100000
+all_resist_polar : 100
+
+[斩瞳·神]
+type : "斩瞳·神"
+all_polar : 480
+all_attrib : 480
+phy_power : 96000
+mag_power : 96000
+all_resist_polar : 96
+
+[我是土豪·神]
+type : "我是土豪·神"
+all_polar : 470
+all_attrib : 470
+phy_power : 94000
+mag_power : 94000
+all_resist_polar : 94
+
+[上古战神·神]
+type : "上古战神·神"
+all_polar : 460
+all_attrib : 460
+phy_power : 92000
+mag_power : 92000
+all_resist_polar : 92
+
+[缥缈之神·神]
+type : "缥缈之神·神"
+all_polar : 450
+all_attrib : 450
+phy_power : 90000
+mag_power : 90000
+all_resist_polar : 90
+
+[白浅上神·神]
+type : "白浅上神·神"
+all_polar : 440
+all_attrib : 440
+phy_power : 88000
+mag_power : 88000
+all_resist_polar : 88
+
+[青丘之神·神]
+type : "青丘之神·神"
+all_polar : 430
+all_attrib : 430
+phy_power : 86000
+mag_power : 86000
+all_resist_polar : 86
+
+[涂山之神·神]
+type : "涂山之神·神"
+all_polar : 420
+all_attrib : 420
+phy_power : 84000
+mag_power : 84000
+all_resist_polar : 84
+
+[鬼面无影·神]
+type : "鬼面无影·神"
+all_polar : 410
+all_attrib : 410
+phy_power : 82000
+mag_power : 82000
+all_resist_polar : 82
+
+[红莲之神·神]
+type : "红莲之神·神"
+all_polar : 400
+all_attrib : 400
+phy_power : 80000
+mag_power : 80000
+all_resist_polar : 80
+
+[三界至尊·神]
+type : "三界至尊·神"
+all_polar : 390
+all_attrib : 390
+phy_power : 78000
+mag_power : 78000
+all_resist_polar : 78
+
+[傲天之神·神]
+type : "傲天之神·神"
+all_polar : 380
+all_attrib : 380
+phy_power : 76000
+mag_power : 76000
+all_resist_polar : 76
+
+[齐天之神·神]
+type : "齐天之神·神"
+all_polar : 370
+all_attrib : 370
+phy_power : 74000
+mag_power : 74000
+all_resist_polar : 74
+
+[玄天之神·神]
+type : "玄天之神·神"
+all_polar : 360
+all_attrib : 360
+phy_power : 72000
+mag_power : 72000
+all_resist_polar : 72
+
+[通天之神·神]
+type : "通天之神·神"
+all_polar : 350
+all_attrib : 350
+phy_power : 70000
+mag_power : 70000
+all_resist_polar : 70
+
+[赤天之神·神]
+type : "赤天之神·神"
+all_polar : 340
+all_attrib : 340
+phy_power : 68000
+mag_power : 68000
+all_resist_polar : 68
+
+[为你乱世妩媚·仙]
+type : "为你乱世妩媚·仙"
+all_polar : 330
+all_attrib : 330
+phy_power : 66000
+mag_power : 66000
+all_resist_polar : 66
+
+[为你乱世称帝·仙]
+type : "为你乱世称帝·仙"
+all_polar : 320
+all_attrib : 320
+phy_power : 64000
+mag_power : 64000
+all_resist_polar : 64
+
+[圣元仙皇·仙]
+type : "圣元仙皇·仙"
+all_polar : 310
+all_attrib : 310
+phy_power : 62000
+mag_power : 62000
+all_resist_polar : 62
+
+[圣元真仙·仙]
+type : "圣元真仙·仙"
+all_polar : 300
+all_attrib : 300
+phy_power : 60000
+mag_power : 60000
+all_resist_polar : 60
+
+[修罗真仙·仙]
+type : "修罗真仙·仙"
+all_polar : 290
+all_attrib : 290
+phy_power : 58000
+mag_power : 58000
+all_resist_polar : 58
+
+[仙道圣皇·仙]
+type : "仙道圣皇·仙"
+all_polar : 280
+all_attrib : 280
+phy_power : 56000
+mag_power : 56000
+all_resist_polar : 56
+
+[九霄仙帝·仙]
+type : "九霄仙帝·仙"
+all_polar : 270
+all_attrib : 270
+phy_power : 54000
+mag_power : 54000
+all_resist_polar : 54
+
+[混元仙尊·仙]
+type : "混元仙尊·仙"
+all_polar : 260
+all_attrib : 260
+phy_power : 52000
+mag_power : 52000
+all_resist_polar : 52
+
+[太乙仙君·仙]
+type : "太乙仙君·仙"
+all_polar : 250
+all_attrib : 250
+phy_power : 50000
+mag_power : 50000
+all_resist_polar : 50
+
+[大罗金仙·仙]
+type : "大罗金仙·仙"
+all_polar : 240
+all_attrib : 240
+phy_power : 48000
+mag_power : 48000
+all_resist_polar : 48
+
+[太阴灵仙·仙]
+type : "太阴灵仙·仙"
+all_polar : 230
+all_attrib : 230
+phy_power : 46000
+mag_power : 46000
+all_resist_polar : 46
+
+[玉清真仙·仙]
+type : "玉清真仙·仙"
+all_polar : 220
+all_attrib : 220
+phy_power : 44000
+mag_power : 44000
+all_resist_polar : 44
+
+[灵台天仙·仙]
+type : "灵台天仙·仙"
+all_polar : 210
+all_attrib : 210
+phy_power : 42000
+mag_power : 42000
+all_resist_polar : 42
+
+[逍遥散仙·仙]
+type : "逍遥散仙·仙"
+all_polar : 200
+all_attrib : 200
+phy_power : 40000
+mag_power : 40000
+all_resist_polar : 40
+
+[就是这么任性·凡]
+type : "就是这么任性·凡"
+all_polar : 190
+all_attrib : 190
+phy_power : 38000
+mag_power : 38000
+all_resist_polar : 38
+
+[人生若只如初见·凡]
+type : "人生若只如初见·凡"
+all_polar : 180
+all_attrib : 180
+phy_power : 36000
+mag_power : 36000
+all_resist_polar : 36
+
+[护花使者·凡]
+type : "护花使者·凡"
+all_polar : 170
+all_attrib : 170
+phy_power : 34000
+mag_power : 34000
+all_resist_polar : 34
+
+[唯我独尊·凡]
+type : "唯我独尊·凡"
+all_polar : 160
+all_attrib : 160
+phy_power : 32000
+mag_power : 32000
+all_resist_polar : 32
+
+[豪到没朋友·凡]
+type : "豪到没朋友·凡"
+all_polar : 150
+all_attrib : 150
+phy_power : 30000
+mag_power : 30000
+all_resist_polar : 30
+
+[哥是高富帅·凡]
+type : "哥是高富帅·凡"
+all_polar : 140
+all_attrib : 140
+phy_power : 28000
+mag_power : 28000
+all_resist_polar : 28
+
+[倾国倾城·凡]
+type : "倾国倾城·凡"
+all_polar : 130
+all_attrib : 130
+phy_power : 26000
+mag_power : 26000
+all_resist_polar : 26
+
+[国色天香·凡]
+type : "国色天香·凡"
+all_polar : 120
+all_attrib : 120
+phy_power : 24000
+mag_power : 24000
+all_resist_polar : 24
+
+[星耀女神·凡]
+type : "星耀女神·凡"
+all_polar : 110
+all_attrib : 110
+phy_power : 22000
+mag_power : 22000
+all_resist_polar : 22
+
+[魅不可挡·凡]
+type : "魅不可挡·凡"
+all_polar : 100
+all_attrib : 100
+phy_power : 20000
+mag_power : 20000
+all_resist_polar : 20
+
+[醉笑红尘·凡]
+type : "醉笑红尘·凡"
+all_polar : 90
+all_attrib : 90
+phy_power : 18000
+mag_power : 18000
+all_resist_polar : 18
+
+[传说之巅·凡]
+type : "传说之巅·凡"
+all_polar : 80
+all_attrib : 80
+phy_power : 16000
+mag_power : 16000
+all_resist_polar : 16
+
+[天道通玄·凡]
+type : "天道通玄·凡"
+all_polar : 70
+all_attrib : 70
+phy_power : 14000
+mag_power : 14000
+all_resist_polar : 14
+
+[超凡入圣·凡]
+type : "超凡入圣·凡"
+all_polar : 60
+all_attrib : 60
+phy_power : 12000
+mag_power : 12000
+all_resist_polar : 12
+
+[傲视三界·凡]
+type : "傲视三界·凡"
+all_polar : 50
+all_attrib : 50
+phy_power : 10000
+mag_power : 10000
+all_resist_polar : 10
+
+[纵横九州·凡]
+type : "纵横九州·凡"
+all_polar : 40
+all_attrib : 40
+phy_power : 8000
+mag_power : 8000
+all_resist_polar : 8
+
+[名动一方·凡]
+type : "名动一方·凡"
+all_polar : 30
+all_attrib : 30
+phy_power : 6000
+mag_power : 6000
+all_resist_polar : 6
+
+[位列仙班·凡]
+type : "位列仙班·凡"
+all_polar : 10
+all_attrib : 10
+phy_power : 2000
+mag_power : 2000
+all_resist_polar : 2
+
+[君临天下·凡]
+type : "君临天下·凡"
+all_polar : 20
+all_attrib : 20
+phy_power : 4000
+mag_power : 4000
+all_resist_polar : 4
+
+[金系掌门]
+type : "family"
+ignore_resist_metal     : 20
+ignore_resist_forgotten : 20
+ignore_resist_repress   : 20
+
+[木系掌门]
+type : "family"
+ignore_resist_wood   : 20
+ignore_resist_poison : 20
+ignore_resist_melt   : 20
+
+[水系掌门]
+type : "family"
+ignore_resist_water  : 20
+ignore_resist_frozen : 20
+ignore_resist_cage   : 20
+
+[火系掌门]
+type : "family"
+ignore_resist_fire  : 20
+ignore_resist_sleep : 20
+ignore_resist_lock  : 20
+
+[土系掌门]
+type : "family"
+ignore_resist_earth     : 20
+ignore_resist_confusion : 20
+ignore_resist_lost      : 20
+
+[新入道途]
+type : 门派挑战
+max_life : 270
+max_mana : 135
+def      : -45
+
+[小具法力]
+type : "门派挑战"
+max_life : 480
+max_mana : 240
+def      : -80
+
+[初领妙道]
+type : "门派挑战"
+max_life : 750
+max_mana : 375
+def      : -125
+
+[略通道行]
+type : "门派挑战"
+max_life : 1080
+max_mana : 540
+def      : -180
+
+[渐入佳境]
+type : "门派挑战"
+max_life : 1470
+max_mana : 735
+def      : -245
+
+[元神初具]
+type : "门派挑战"
+max_life : 1920
+max_mana : 960
+def      : -320
+
+[道心稳固]
+type : "门派挑战"
+max_life : 2430
+max_mana : 1215
+def      : -405
+
+[道高德隆]
+type : "门派挑战"
+max_life : 3000
+max_mana : 1500
+def      : -500
+
+[妙领天机]
+type : "门派挑战"
+max_life : 3630
+max_mana : 1815
+def      : -605
+
+[脱胎换骨]
+type : "门派挑战"
+max_life : 4320
+max_mana : 2160
+def      : -720
+
+[霞举飞升]
+type : "门派挑战"
+max_life : 5070
+max_mana : 2535
+def      : -845
+
+[道满根归]
+type : "门派挑战"
+max_life : 5880
+max_mana : 2940
+def      : -980
+
+[不堕轮回]
+type : "门派挑战"
+max_life : 6750
+max_mana : 3375
+def      : -1125
+
+[已证大道]
+type : "门派挑战"
+max_life : 7680
+max_mana : 3840
+def      : -1280
+
+[反璞归真]
+type : "门派挑战"
+max_life : 8670
+max_mana : 4335
+def      : -1445
+
+[法力无边]
+type : "门派挑战"
+max_life : 9720
+max_mana : 4860
+def      : -1620
+
+[天人合一]
+type : "门派挑战"
+max_life : 10830
+max_mana : 5415
+def      : -1805
+
+[初出江湖]
+type : "herod"
+mag_power : 83
+phy_power : 83
+def       : 250
+speed     : -50
+
+[颇具潜力]
+type : "herod"
+mag_power : 120
+phy_power : 120
+def       : 360
+speed     : -60
+
+[初显锋芒]
+type : "herod"
+mag_power : 163
+phy_power : 163
+def       : 490
+speed     : -70
+
+[小有名气]
+type : "herod"
+mag_power : 213
+phy_power : 213
+def       : 640
+speed     : -80
+
+[声名鹊起]
+type : "herod"
+mag_power : 270
+phy_power : 270
+def       : 810
+speed     : -90
+
+[锋芒毕露]
+type : "herod"
+mag_power : 333
+phy_power : 333
+def       : 1000
+speed     : -100
+
+[声名显赫]
+type : "herod"
+mag_power : 403
+phy_power : 403
+def       : 1210
+speed     : -110
+
+[如雷贯耳]
+type : "herod"
+mag_power : 480
+phy_power : 480
+def       : 1440
+speed     : -120
+
+[威风八面]
+type : "herod"
+mag_power : 563
+phy_power : 563
+def       : 1690
+speed     : -130
+
+[德高望重]
+type : "herod"
+mag_power : 653
+phy_power : 653
+def       : 1960
+speed     : -140
+
+[威镇九州]
+type : "herod"
+mag_power : 750
+phy_power : 750
+def       : 2250
+speed     : -150
+
+[常胜将军]
+type : "herod"
+mag_power : 853
+phy_power : 853
+def       : 2560
+speed     : -160
+
+[战无不胜]
+type : "herod"
+mag_power : 963
+phy_power : 963
+def       : 2890
+speed     : -170
+
+[万人景仰]
+type : "herod"
+mag_power : 1080
+phy_power : 1080
+def       : 3240
+speed     : -180
+
+[江湖游侠]
+type : "仙魔录"
+def : 90
+mag_power : -30
+phy_power : -30
+
+[智贤羽士]
+type : "仙魔录"
+def : 160
+mag_power : -53
+phy_power : -53
+
+
+[屠龙法师]
+type : "仙魔录"
+def : 360
+mag_power : -83
+phy_power : -83
+
+[辟邪仙师]
+type : "仙魔录"
+def  : 490
+mag_power : -120
+phy_power : -120
+
+[九灵散人]
+type : "仙魔录"
+def  : 640
+mag_power : -163
+phy_power : -163
+
+[伏魔真人]
+type : "仙魔录"
+def  : 810
+mag_power : -213
+phy_power : -213
+
+[天道圣者]
+type : "仙魔录"
+def  : 1000
+mag_power : -270
+phy_power : -270
+
+[妙应真君]
+type : "仙魔录"
+def  : 1210
+mag_power : -333
+phy_power : -333
+
+[金身尊者]
+type : "仙魔录"
+def  : 1440
+mag_power : -403
+phy_power : -403
+
+[无量天尊]
+type : "仙魔录"
+def  : 1690
+mag_power : -480
+phy_power : -480
+
+[结拜]
+type : "brother"
+D_skill_low_cost :  10
+C_skill_low_cost :  -10
+
+[夫妻]
+type : "marry"
+D_skill_low_cost :  -10
+C_skill_low_cost :  10
+
+[飞升]
+type : "upgrade"
+prop_scale/mag_power : -10
+prop_scale/phy_power : -10
+B_skill_low_cost :  -10
+J_skill_low_cost :  -10
+
+[萝卜将军]
+type : "萝卜桃子大收集萝卜将军"
+no_update : 1
+
+[桃子勇士]
+type : "萝卜桃子大收集桃子勇士"
+no_update : 1
+
+[帮主]
+type : "party"
+no_update : 1
+
+[副帮主]
+type : "party"
+no_update : 1
+
+[青龙长老]
+type : "party"
+no_update : 1
+
+[白虎长老]
+type : "party"
+no_update : 1
+
+[朱雀长老]
+type : "party"
+no_update : 1
+
+[玄武长老]
+type : "party"
+no_update : 1
+
+[德馨堂主]
+type : "party"
+no_update : 1
+
+[素侠堂主]
+type : "party"
+no_update : 1
+
+[暗龙堂主]
+type : "party"
+no_update : 1
+
+[虎威堂主]
+type : "party"
+no_update : 1
+
+[紫云堂主]
+type : "party"
+no_update : 1
+
+[听雪堂主]
+type : "party"
+no_update : 1
+
+[梦溪堂主]
+type : "party"
+no_update : 1
+
+[玄风堂主]
+type : "party"
+no_update : 1
+
+[远雷护法]
+type : "party"
+no_update : 1
+
+[尖峰护法]
+type : "party"
+no_update : 1
+
+[夜伏护法]
+type : "party"
+no_update : 1
+
+[云海护法]
+type : "party"
+no_update : 1
+
+[苍兰护法]
+type : "party"
+no_update : 1
+
+[帮派精英]
+type : "party"
+no_update : 1
+
+[帮众]
+type : "party"
+no_update : 1
+
+[帮派功臣]
+type : "party_contributor"
+no_update : 1
+
+[跨服帮派争霸赛冠军帮帮主]
+type : "cs_partywar"
+all_polar : 5
+
+[跨服帮派争霸赛冠军帮副帮主]
+type : "cs_partywar"
+all_polar : 4
+
+[跨服帮派争霸赛冠军帮长老]
+type : "cs_partywar"
+all_polar : 3
+
+[跨服帮派争霸赛冠军帮护法]
+type : "cs_partywar"
+all_polar : 3
+
+[跨服帮派争霸赛冠军帮堂主]
+type : "cs_partywar"
+all_polar : 2
+
+[跨服帮派争霸赛冠军帮精英]
+type : "cs_partywar"
+all_polar : 2
+
+[跨服帮派争霸赛冠军帮帮众]
+type : "cs_partywar"
+all_polar : 1
+
+[跨服帮派争霸赛冠军]
+type : "cs_partywar"
+all_polar : 5
+all_attrib : 20
+
+[寿星称号]
+type : "char_birthday"
+no_update : 1
+
+[火眼金睛]
+type : "huoyan_jinjing"
+mag_power : 653
+phy_power : 653
+def       : 1960
+
+[中洲霸主]
+type : "cs_citywar"
+all_polar : 5
+
+[中洲第一帮副帮主]
+type : "cs_citywar"
+all_polar : 4
+
+[中洲第一帮长老]
+type : "cs_citywar"
+all_polar : 3
+
+[中洲第一帮护法]
+type : "cs_citywar"
+all_polar : 3
+
+[中洲第一帮堂主]
+type : "cs_citywar"
+all_polar : 2
+
+[中洲第一帮精英]
+type : "cs_citywar"
+all_polar : 2
+
+[中洲第一帮帮众]
+type : "cs_citywar"
+all_polar : 1
+
+[跨服帮派争霸赛亚军帮帮主]
+type : "cs_partywar"
+all_polar : 4
+
+[跨服帮派争霸赛亚军帮副帮主]
+type : "cs_partywar"
+all_polar : 3
+
+[跨服帮派争霸赛亚军帮长老]
+type : "cs_partywar"
+all_polar : 2
+
+[跨服帮派争霸赛亚军帮护法]
+type : "cs_partywar"
+all_polar : 2
+
+[跨服帮派争霸赛亚军帮堂主]
+type : "cs_partywar"
+all_polar : 1
+
+[跨服帮派争霸赛亚军帮精英]
+type : "cs_partywar"
+all_polar : 1
+

@@ -1,0 +1,64 @@
+#FORM2
+#zhuangb.list
+#create by caijz 09/18/2006
+#奖励物品        概率
+
+[奖励等级]
+name$: 特等奖
+
+[特等奖]
+八速 : 100
+
+[八速]
+bonus$:  ({ 0, 0, 100, "宠物", 1, 1, "至尊太极熊", "至尊玉蝶鱼", "至尊盘古猿", "至尊吉祥蛙", "至尊巨骨刺"})
+
+[至尊太极熊]
+name$: ({ 至尊太极熊, 至尊太极熊 })
+rank$: 精怪
+level: 169
+life_effect: ({ 65, 65 })
+mana_effect: ({ 25, 25 })
+speed_effect: ({ 45, 45 })
+phy_effect: ({ -50, -50 })
+mag_effect: ({ 25, 25 })
+
+[至尊玉蝶鱼]
+name$: ({ 至尊玉蝶鱼, 至尊玉蝶鱼 })
+rank$: 精怪
+level: 169
+life_effect: ({ 70, 70 })
+mana_effect: ({ 25, 25 })
+speed_effect: ({ 35, 35 })
+phy_effect: ({ -50, -50 })
+mag_effect: ({ 30, 30 })
+
+[至尊盘古猿]
+name$: ({ 至尊盘古猿, 至尊盘古猿 })
+rank$: 精怪
+level: 169
+life_effect: ({ 60, 60 })
+mana_effect: ({ 20, 20 })
+speed_effect: ({ 35, 35 })
+phy_effect: ({ -50, -50 })
+mag_effect: ({ 45, 45 })
+
+[至尊吉祥蛙]
+name$: ({ 至尊吉祥蛙, 至尊吉祥蛙 })
+rank$: 精怪
+level: 169
+life_effect: ({ 60, 60 })
+mana_effect: ({ 20, 20 })
+speed_effect: ({ 35, 35 })
+phy_effect: ({ -50, -50 })
+mag_effect: ({ 45, 45 })
+
+[至尊巨骨刺]
+name$: ({ 至尊巨骨刺, 至尊巨骨刺 })
+rank$: 精怪
+level: 169
+life_effect: ({ 60, 60 })
+mana_effect: ({ 20, 20 })
+speed_effect: ({ 35, 35 })
+phy_effect: ({ -50, -50 })
+mag_effect: ({ 45, 45 })
+

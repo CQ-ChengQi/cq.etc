@@ -1,0 +1,17 @@
+#FORM2
+
+[broadcast_setting]
+broadcast_list : ({ "dur_game" })
+
+[dur_game]
+broadcast_start : "start_time"
+interval        : 3600
+broadcast_end   : "end_time(-300)"
+message         : "天降祥瑞，特举办#R自选礼包#n福利活动，期间大家可至#@自选礼包|Open:OptionalGiftsDlg#@界面中选购自己需要的用品，单笔满额就送，快快行动吧！活动至#REND_TIME#n结束。"
+channel         : "CHANNEL_SYSTEM | CHANNEL_NO_BROADCAST"
+
+[show_pos_map]
+
+
+[no_sell]
+
