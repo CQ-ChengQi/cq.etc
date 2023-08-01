@@ -3,7 +3,18 @@
 #
 
 [活动时间]
-time_list$ : ({ "2017-10-30-16:00:00", "EVERY_HOUR(2)", "EVERY_DAY(1)", "2017-11-03-20:00:00" })
+time_list$ : ({ "2018-06-01-00:00:00", "EVERY_HOUR(2)", "EVERY_DAY(1)", "2028-12-30-23:59:59" })
+time_list$ : ({ "2018-06-01-02:00:00", "EVERY_HOUR(2)", "EVERY_DAY(1)", "2028-12-30-23:59:59" })
+time_list$ : ({ "2018-06-01-04:00:00", "EVERY_HOUR(2)", "EVERY_DAY(1)", "2028-12-30-23:59:59" })
+time_list$ : ({ "2018-06-01-06:00:00", "EVERY_HOUR(2)", "EVERY_DAY(1)", "2028-12-30-23:59:59" })
+time_list$ : ({ "2018-06-01-08:00:00", "EVERY_HOUR(2)", "EVERY_DAY(1)", "2028-12-30-23:59:59" })
+time_list$ : ({ "2018-06-01-10:00:00", "EVERY_HOUR(2)", "EVERY_DAY(1)", "2028-12-30-23:59:59" })
+time_list$ : ({ "2018-06-01-12:00:00", "EVERY_HOUR(2)", "EVERY_DAY(1)", "2028-12-30-23:59:59" })
+time_list$ : ({ "2018-06-01-14:00:00", "EVERY_HOUR(2)", "EVERY_DAY(1)", "2028-12-30-23:59:59" })
+time_list$ : ({ "2018-06-01-16:00:00", "EVERY_HOUR(2)", "EVERY_DAY(1)", "2028-12-30-23:59:59" })
+time_list$ : ({ "2018-06-01-18:00:00", "EVERY_HOUR(2)", "EVERY_DAY(1)", "2028-12-30-23:59:59" })
+time_list$ : ({ "2018-06-01-20:00:00", "EVERY_HOUR(2)", "EVERY_DAY(1)", "2028-12-30-23:59:59" })
+time_list$ : ({ "2018-06-01-22:00:00", "EVERY_HOUR(2)", "EVERY_DAY(1)", "2028-12-30-23:59:59" })
 
 [活动相关]
 default_duration : 7200
@@ -174,7 +185,7 @@ prefix : "反叛的"
 num: 10
 
 [天墉城小BOSS]
-num: 25
+num: 50
 type: "shihun"
 level$: 40
 level$: 50
@@ -193,7 +204,7 @@ type: "boss_monster"
 
 [东海渔村上古妖王]
 name: 上古妖王
-num: 10
+num: 50
 level$: ({ 80, 百花谷三 })
 level$: ({ 82, 百花谷四 })
 level$: ({ 84, 百花谷五 })
@@ -239,7 +250,7 @@ prefix : "反叛的"
 num: 10
 
 [东海渔村小BOSS]
-num: 25
+num: 100
 type: "shihun"
 level$: 60
 level$: 70
@@ -259,7 +270,7 @@ type: "boss_monster"
 
 [无名小镇上古妖王]
 name: 上古妖王
-num: 10
+num: 30
 level$: ({ 103, 海底迷宫 })
 level$: ({ 108, 昆仑云海 })
 level$: ({ 113, 雪域冰原 })
@@ -303,7 +314,7 @@ prefix : "反叛的"
 num: 10
 
 [无名小镇小BOSS]
-num: 25
+num: 50
 type: "shihun"
 level$: 80
 level$: 90
@@ -340,7 +351,7 @@ type:   "xing"
 num: 10
 
 [云霄宫小BOSS]
-num: 25
+num: 50
 type: "shihun"
 level$: 130
 level$: 140

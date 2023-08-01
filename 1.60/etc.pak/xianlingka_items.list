@@ -295,6 +295,8 @@ goods$ : 降妖除邪镜
 goods$ : 生肖盘道具
 goods$ : 十二生肖盘
 goods$ : 至尊十二生肖盘
+goods$ : 超级女娲石
+
 
 [药店]
 goods$ : 止血草
@@ -332,3 +334,4 @@ goods$ : 龙纹果
 goods$ : 聚灵丹
 goods$ : 虎骨酒
 goods$ : 天山玉露
+goods$ : 千年蚌丹

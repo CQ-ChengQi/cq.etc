@@ -1,7 +1,7 @@
 #FORM2
 
 [活动时间]
-time_list$ : ({ "2015-06-03-00:00:00", "EVERY_DAY(3)", 0, "2015-06-05-23:59:59" })
+time_list$ : ({ "2015-06-03-00:00:00", "EVERY_DAY(3)", 0, "2025-06-05-23:59:59" })
 
 [broadcast_setting]
 broadcast_list : ({ "start_task", "during_task", "end_task" })
