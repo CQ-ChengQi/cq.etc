@@ -1,8 +1,24 @@
 #FORM2
 
 [task_time]
-start_time : "2017-12-23-10:00:00"
-end_time   : "2017-12-26-23:59:59"
+start_time : "2023-08-01-10:00:00"
+end_time   : "2023-08-26-23:59:59"
+
+[basic]
+all_elixir_num    : 3000000
+all_bonus_sp_num  : 36
+all_bonus0_num    : 99
+all_bonus1_num    : 305
+all_bonus2_num    : 282185
+all_bonus3_num    : 524202
+all_bonus4_num    : 881100
+all_bonus5_num    : 1312073
+bonus0_start      : ({ 15555, 17777 })
+bonus0_range      : 22222
+bonus1_start      : ({ 6885, 7868 })
+bonus1_range      : 9836
+bonus0_to_sp      : 250
+bonus0_to_sp_base : 100
 
 [default]
 bonussp : ({ "北斗天蓬", "随机元灵", "齐天大圣", "至尊巨骨刺" })
