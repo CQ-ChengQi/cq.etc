@@ -2,7 +2,7 @@
 
 [活动时间]
 # 任务开始时间，持续时间，开启频率
-time_list$ : ({ "2016-10-21-00:00:00", "EVERY_DAY(10)", "EVERY_WEEK(0)", "2016-10-30-23:59:59" })
+time_list$ : ({ "2023-08-09-00:00:00", "EVERY_DAY(100)", "EVERY_WEEK(0)", "2026-10-30-23:59:59" })
 
 [broadcast_setting]
 broadcast_list:   ({ "start_task", "end_task" })
@@ -51,6 +51,7 @@ bonus$ : "神圣之光秘笈"
 bonus$ : "游说之舌秘笈"
 bonus$ : "漫天血舞秘笈"
 bonus$ : "超级女娲石"
+bonus$ : "秘笈·随机属性"
 bonus$ : "80级满属性黑水晶"
 bonus$ : "90级满属性黑水晶"
 bonus$ : "100级满属性黑水晶"
@@ -60,96 +61,145 @@ bonus$ : "130级满属性黑水晶"
 bonus$ : "140级满属性黑水晶"
 bonus$ : "150级满属性黑水晶"
 bonus$ : "160级满属性黑水晶"
+bonus$ : "金蛟剪"
+bonus$ : "九龙神火罩"
+bonus$ : "番天印"
+bonus$ : "阴阳镜"
+bonus$ : "定海珠"
+bonus$ : "混元金斗"
+bonus$ : "卸甲金葫"
+bonus$ : "十二品莲台"
+bonus$ : "混沌钟"
+bonus$ : "七宝妙树"
+
+
+
+# 伤害  power
+# 最大耐久度 max_durability
+# 防御 def
+# 气血 max_life
+# 法力 max_mana
+# 速度 speed
+# 力量 str
+# 体制 con
+# 灵力 wiz
+# 敏捷 dex
+# 所有属性 all_attrib
+# 闪避 base_dodge
+# 准确  accurate
+# 连击率 double_hit_rate
+# 反击率 counter_attack_rate
+# 物理必殺率 stunt_rate
+# 反震率  damage_sel_rate
+# 连击 double_hit
+# 反击 counter_attack
+# 反震度 damage_sel
+
+
+# 金相性 metal
+# 木相性 wood
+# 水相性 water
+# 火相性 fire
+# 土相性 earth
+
+# 所有相性 all_polar
+# 所有抗性 all_resist_polar
+# 抗所有异常 all_resist_except
+# 所有技能上升 all_skill
+# 忽視所有抗性 ignore_all_resist_polar
+# 忽視所有抗异常 ignore_all_resist_except
+
 
 # 新服许愿和元宝商人许愿共用以下配置
+# 武器
 [weapon_rate]
-power                    : 300
-str                      : 1000
-con                      : 1000
-wiz                      : 1000
-dex                      : 1000
-double_hit_rate          : 1000
-counter_attack_rate      : 1000
-stunt_rate               : 1000
-metal                    : 1000
-wood                     : 1500
-water                    : 1500
-fire                     : 1500
-earth                    : 1000
-all_polar                : 200
-all_skill                : 500
-ignore_all_resist_polar  : 300
-ignore_all_resist_except : 200
+power                    : 15000
+str                      : 200
+con                      : 200
+wiz                      : 200
+dex                      : 200
+double_hit_rate          : 200
+counter_attack_rate      : 200
+stunt_rate               : 200
+metal                    : 5000
+wood                     : 5000
+water                    : 5000
+fire                     : 5000
+earth                    : 5000
+all_polar                : 15000
+all_skill                : 15000
+ignore_all_resist_polar  : 15000
+ignore_all_resist_except : 15000
 
 [armor_rate]
-def                      : 1000
-max_life                 : 1000
-max_mana                 : 1000
-str                      : 1000
-con                      : 1000
-wiz                      : 1000
-dex                      : 1000
-resist_poison            : 1500
-resist_frozen            : 1500
-resist_sleep             : 1500
-resist_forgotten         : 1500
-resist_confusion         : 1500
-resist_repress           : 1500
-resist_melt              : 1500
-resist_cage              : 1500
-resist_lock              : 1500
-resist_lost              : 1500
-all_resist_polar         : 500
-all_resist_except        : 500
-all_attrib               : 300
+def                      : 5000
+max_life                 : 5000
+max_mana                 : 200
+str                      : 15000
+con                      : 5000
+wiz                      : 15000
+dex                      : 15000
+resist_poison            : 200
+resist_frozen            : 200
+resist_sleep             : 200
+resist_forgotten         : 200
+resist_confusion         : 200
+resist_repress           : 200
+resist_melt              : 200
+resist_cage              : 200
+resist_lock              : 200
+resist_lost              : 200
+all_resist_polar         : 15000
+all_resist_except        : 15000
+all_attrib               : 15000
 
 [helmet_rate]
-def                      : 1000
-max_life                 : 1000
+def                      : 5000
+max_life                 : 5000
 max_mana                 : 1000
-str                      : 1000
-con                      : 1000
-wiz                      : 1000
-dex                      : 1000
-double_hit               : 1000
-counter_attack           : 1000
-damage_sel               : 1500
-all_attrib               : 200
+str                      : 15000
+con                      : 5000
+wiz                      : 15000
+dex                      : 15000
+double_hit               : 5000
+counter_attack           : 200
+damage_sel               : 200
+all_attrib               : 15000
 
 [boot_rate]
-def                      : 1000
-speed                    : 1000
-str                      : 1000
-con                      : 1000
-wiz                      : 1000
-dex                      : 1000
-double_hit               : 1000
-counter_attack           : 1000
-damage_sel               : 1500
-all_attrib               : 200
+def                      : 5000
+speed                    : 15000
+str                      : 15000
+con                      : 5000
+wiz                      : 15000
+dex                      : 15000
+double_hit               : 5000
+counter_attack           : 200
+damage_sel               : 200
+all_attrib               : 15000
 
 [belt_rate]
-def                      : 1000
-max_life                 : 1000
+def                      : 5000
+max_life                 : 5000
 max_mana                 : 1000
 base_dodge               : 1000
-str                      : 1000
-con                      : 1000
-wiz                      : 1000
-dex                      : 1000
-resist_poison            : 1500
-resist_frozen            : 1500
-resist_sleep             : 1500
-resist_forgotten         : 1500
-resist_confusion         : 1500
-resist_repress           : 1500
-resist_melt              : 1500
-resist_cage              : 1500
-resist_lock              : 1500
-resist_lost              : 1500
-all_resist_polar         : 500
-all_resist_except        : 500
-all_attrib               : 300
+str                      : 15000
+con                      : 5000
+wiz                      : 15000
+dex                      : 15000
+resist_poison            : 200
+resist_frozen            : 200
+resist_sleep             : 200
+resist_forgotten         : 200
+resist_confusion         : 200
+resist_repress           : 200
+resist_melt              : 200
+resist_cage              : 200
+resist_lock              : 200
+resist_lost              : 200
+all_resist_polar         : 15000
+all_resist_except        : 15000
+all_attrib               : 15000
 
 [九尾仙狐]
 rate_base : 5000000
@@ -483,9 +533,29 @@ rate_base : 3000
 max_num   : 20
 item_type : "skill_artifact"
 
+
+[混沌钟]
+rate_base : 3000
+max_num   : 20
+item_type : "skill_artifact"
+
+
+[七宝妙树]
+rate_base : 3000
+max_num   : 20
+item_type : "skill_artifact"
+
+
+[十二品莲台]
+rate_base : 3000
+max_num   : 20
+item_type : "skill_artifact"
+
+
+
 [80级满属性黑水晶]
 rate_base : 1000
-max_num   : 7
+max_num   : 21
 show_name : "黑水晶·随机满属性"
 name : "黑水晶"
 level : 80
@@ -493,7 +563,7 @@ item_type : "heishuijing"
 
 [90级满属性黑水晶]
 rate_base : 1000
-max_num   : 7
+max_num   : 21
 show_name : "黑水晶·随机满属性"
 name : "黑水晶"
 level : 90
@@ -501,7 +571,7 @@ item_type : "heishuijing"
 
 [100级满属性黑水晶]
 rate_base : 1000
-max_num   : 7
+max_num   : 21
 show_name : "黑水晶·随机满属性"
 name : "黑水晶"
 level : 100
@@ -509,7 +579,7 @@ item_type : "heishuijing"
 
 [110级满属性黑水晶]
 rate_base : 1000
-max_num   : 7
+max_num   : 14
 show_name : "黑水晶·随机满属性"
 name : "黑水晶"
 level : 110
@@ -517,7 +587,7 @@ item_type : "heishuijing"
 
 [120级满属性黑水晶]
 rate_base : 1000
-max_num   : 7
+max_num   : 21
 show_name : "黑水晶·随机满属性"
 name : "黑水晶"
 level : 120
@@ -525,7 +595,7 @@ item_type : "heishuijing"
 
 [130级满属性黑水晶]
 rate_base : 1000
-max_num   : 7
+max_num   : 21
 show_name : "黑水晶·随机满属性"
 name : "黑水晶"
 level : 130
@@ -533,7 +603,7 @@ item_type : "heishuijing"
 
 [140级满属性黑水晶]
 rate_base : 1000
-max_num   : 7
+max_num   : 21
 show_name : "黑水晶·随机满属性"
 name : "黑水晶"
 level : 140
@@ -541,7 +611,7 @@ item_type : "heishuijing"
 
 [150级满属性黑水晶]
 rate_base : 1000
-max_num   : 7
+max_num   : 21
 show_name : "黑水晶·随机满属性"
 name : "黑水晶"
 level : 150
@@ -549,7 +619,7 @@ item_type : "heishuijing"
 
 [160级满属性黑水晶]
 rate_base : 1000
-max_num   : 7
+max_num   : 21
 show_name : "黑水晶·随机满属性"
 name : "黑水晶"
 level : 160
@@ -562,3 +632,4 @@ max_num   : 2
 [超级粉水晶]
 rate_base : 2800
 max_num   : 62
+

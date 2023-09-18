@@ -275,6 +275,7 @@ goods$ : 九天幻影
 [杂货店]
 goods$ : 驱魔香
 goods$ : 清心散
+goods$ : 宝宝玲珑丹
 goods$ : 锄头
 goods$ : 烟花
 goods$ : 爆竹
@@ -295,7 +296,18 @@ goods$ : 降妖除邪镜
 goods$ : 生肖盘道具
 goods$ : 十二生肖盘
 goods$ : 至尊十二生肖盘
-goods$ : 超级女娲石
+goods$ : 法文手轮
+goods$ : 雪魂丝链
+goods$ : 蟠螭结
+goods$ : 叛逆将领袖章
+goods$ : 蓝松石
+goods$ : 芙蓉石
+goods$ : 红宝石
+goods$ : 蓝宝石
+goods$ : 星辰玄铁
+goods$ : 乌金残片
+goods$ : 水晶原石
+
 
 
 [药店]
@@ -335,3 +347,6 @@ goods$ : 聚灵丹
 goods$ : 虎骨酒
 goods$ : 天山玉露
 goods$ : 千年蚌丹
+goods$ : 宝花玉露丸
+goods$ : 三清丸
+

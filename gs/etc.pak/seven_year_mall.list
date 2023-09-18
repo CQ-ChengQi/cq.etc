@@ -2,7 +2,7 @@
 
 [time_info]
 start_time      : "2013-04-15-00:00"
-end_time        : "2013-05-03-23:59"
+end_time        : "2033-05-03-23:59"
 test_start_time : "2013-03-04-00:00"
 test_end_time   : "2013-03-10-23:59"
 
